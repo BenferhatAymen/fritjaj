@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "318485762331",
+    "project_id": "fritjaj",
+    "storage_bucket": "fritjaj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318485762331:android:a1013b5f5b6065dbbac3be",
+        "android_client_info": {
+          "package_name": "com.example.fritjaj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318485762331-6beeoqo5qlove9he5ce64sdppi654avd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBILpko71aZzieHN3hg2SHRPGnAj2sXjrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318485762331-6beeoqo5qlove9he5ce64sdppi654avd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "318485762331-6vh3rs6jujurkajq3eq2p6f8j3so1gb8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fritjaj.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
